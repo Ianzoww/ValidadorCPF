@@ -1,0 +1,14 @@
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\net8.0\ValidadorCPF.exe
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\net8.0\ValidadorCPF.deps.json
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\net8.0\ValidadorCPF.runtimeconfig.json
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\net8.0\ValidadorCPF.dll
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\net8.0\ValidadorCPF.pdb
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\net8.0\ValidadorCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\net8.0\ValidadorCPF.AssemblyInfoInputs.cache
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\net8.0\ValidadorCPF.AssemblyInfo.cs
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\net8.0\ValidadorCPF.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\net8.0\ValidadorCPF.dll
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\net8.0\refint\ValidadorCPF.dll
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\net8.0\ValidadorCPF.pdb
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\net8.0\ValidadorCPF.genruntimeconfig.cache
+C:\Users\Ian\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\net8.0\ref\ValidadorCPF.dll
